@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "description": "imooc movie",
+  "main": "app.js",
+  "license": "MIT",
+  "keywords": [
+    "imooc"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
